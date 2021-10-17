@@ -10,19 +10,19 @@ This is a collection of things I've either designed, or I've created the layout 
 
 ![](./img/tinybrownlogo.jpg)
 
-![](./img/aerotecmockup.jpg)
+![](./img/tinybrownmockup.jpg)
 
 ![](./img/informantlogo.jpg)
 
 ![](./img/informantmockup.jpg)
 
-![](./img/cat1.png)
+![](./img/Cat1.png)
 
-![](./img/cat2.png)
+![](./img/Cat2.png)
 
-![](./img/cat3.png)
+![](./img/Cat3.png)
 
-![](./img/libro.png)
+![](./img/Libro.png)
 
 I did both the design and the layout for it.
 
